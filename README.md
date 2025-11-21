@@ -8,7 +8,7 @@ The file ```Monty_Hall_play.py``` simulates a one-off instance of the three door
 
 ## Monty Hall Trials
 
-The file ```Monty_Hall_trials.py``` is intended to demonstrate the validity of Marilyn vos Savant's argument that made the Monty Hall Problem famous. Say you don't want to teach any schmuck you may be arguing with off the street Bayes' Theorem, or even you just don't want to have to go through the tedium of the math: just run a million or so trials and that should be convincing enough!
+The file ```Monty_Hall_trials.py``` is intended to demonstrate the validity of Marilyn vos Savant's argument that made the Monty Hall Problem famous. Say you don't want to teach Bayes' Theorem to any schmuck off the street, or even you just don't want to have to go through the tedium of the math: just run a million or so trials and that should be convincing enough!
 
 ## Animated Monty Hall
 
