@@ -1,6 +1,6 @@
 # Monty Hall
 
-A number of simulations of the Monty Hall Problem for basic educational purposes. All of the below files feature the problem under its standard rules, i.e., equiprobable assignment of the car to the doors, Monty's complete knowledge of the location of the car, and there being a 50/50 chance of revealing each goat should you happen to choose as a first guess the door behind which is the car.
+Some simulations of the Monty Hall Problem for basic educational purposes. All of the below files feature the problem under its standard rules, i.e., equiprobable assignment of the car to the doors, Monty's complete knowledge of the location of the car, and there being a 50/50 chance of revealing each goat should you happen to choose as a first guess the door behind which is the car.
 
 ## Play Monty Hall
 
